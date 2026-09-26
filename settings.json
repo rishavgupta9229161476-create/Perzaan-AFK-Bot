@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Beast_SMP_7.aternos.me",
+    "port": 37244,
     "version": "1.21.1"
   },
   "position": {
